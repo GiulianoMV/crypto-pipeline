@@ -63,7 +63,7 @@ crypto_pipeline/
 - Cálculo de indicadores técnicos para análise (EMA, RSI, Bandas de Bollinger, etc).
 - Criação de colunas derivadas para análise de compra e venda.
 
-3. Visualização (em desenvolvimento)
+3. Visualização
 - Plotagem de gráficos com indicadores técnicos.
 - Integração futura com relatórios automáticos (gráficos + análises).
 
@@ -127,7 +127,7 @@ O pipeline irá gerar gráficos e enviar relatórios automáticos via Telegram e
 |Extract|Coleta de dados via yfinance|✅ Concluído|
 |Transform|Cálculo de indicadores técnicos|✅ Concluído|
 |Load|Persistência de dados via parquet|🔄 MVP OK|
-|Visualization|Gráficos e relatórios visuais|🔄 Em desenvolvimento|
+|Visualization|Gráficos e relatórios visuais|✅ Concluído|
 |Notifications|Envio via Telegram e E-mail|🔄 Em desenvolvimento|
 |Testes de integração|Cobertura de pipeline completo|🔜 Planejado|
 
