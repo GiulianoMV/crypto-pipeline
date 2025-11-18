@@ -29,7 +29,7 @@ Extrair e processar dados de ativos financeiros (ações, ETFs, criptomoedas e s
 
 ## Estrutura do Projeto
 ```
-crypto_pipeline/
+finpipe/
 │
 ├── data/
 │   ├── raw/ # Dados brutos obtidos da API
@@ -79,8 +79,8 @@ crypto_pipeline/
 
 ### Clonar o repositório
 ```bash
-git clone https://github.com/GiulianoMV/crypto-pipeline.git
-cd crypto-pipeline
+git clone https://github.com/GiulianoMV/finpipe.git
+cd finpipe
 ```
 
 ### Criar e ativar o ambiente virtual
