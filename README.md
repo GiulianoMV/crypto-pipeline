@@ -5,9 +5,7 @@
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow.svg)
 ![Tests](https://img.shields.io/badge/tests-Pytest-orange.svg)
 
-Pipeline **ETL** desenvolvido em **Python** para **extração, transformação e análise de ativos financeiros**, com o objetivo de demonstrar boas práticas em **engenharia de dados**, **automação de análises técnicas** e **integração com serviços externos**.
-
-Atualmente, o projeto contempla as etapas de **extração** e **transformação**, com testes e visualizações em desenvolvimento via Jupyter Notebook.
+Pipeline **ETL** desenvolvido em **Python** para **extração, transformação e análise de ativos financeiros**.
 
 ---
 
