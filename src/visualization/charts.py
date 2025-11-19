@@ -72,7 +72,7 @@ class FinancialChart:
                 'volume_increase': '#26a69a',
                 'volume_decrease': '#ef5350',
             }
-        else:  # light theme
+        else:
             self.colors = {
                 'background': '#ffffff',
                 'text': '#000000',
@@ -465,7 +465,7 @@ class FinancialChart:
             else self.colors['volume_increase'] 
             for open, close in zip(opens, closes)
         ]
-        
+
         figure.add_trace(
             go.Bar(
                 x=dates,
